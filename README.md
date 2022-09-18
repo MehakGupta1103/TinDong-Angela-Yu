@@ -31,7 +31,4 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-TinDog-Start-master/ "Site Link") to view.
-
-To view the site <a href="https://tindogmania.netlify.app/" title="Click here">Markdown tutorial</a>
-
+5. Alternatively you can click on the following [Site Link](https://tindogmania.netlify.app/ "Site Link") to view.
