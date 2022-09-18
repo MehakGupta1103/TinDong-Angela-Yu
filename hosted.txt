@@ -1,0 +1,1 @@
+the site has been sucessfully hosted using netlify, the link of the same is "https://tindogmania.netlify.app"
